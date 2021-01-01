@@ -1,0 +1,8 @@
+{
+  "name": "@artpi/create-block-template",
+  "version": "1.0.0",
+  "description": "A template for `@wordpress/create-block`",
+  "main": "index.js",
+  "author": "artpi",
+  "license": "ISC"
+}
